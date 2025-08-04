@@ -12,7 +12,7 @@
    - 實際上線系統，負責後端開發開發
    - 主要用於校內資訊整合與申請查詢
    - AI分析
-   - [網站展示]()
+   - [網站展示](https://scholarship.ncuesa.org.tw/)
 
 5. **[資工專題：假新聞辨識 Bot](https://github.com/Grasonyang/Agentic-Rag.git)**
    - 整合 Supabase、craw4AI爬蟲，對資料進行 agentic rag
